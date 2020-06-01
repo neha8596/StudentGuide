@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/TwelcomeText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:textAlignment="center"
+
+        android:textSize="25dp"
+        android:layout_marginTop="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <!--  DOWNLOAD PPT -->
+    <Button
+        android:id="@+id/TdownloadButton"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_download"
+        android:text = "Upload PPT"
+        android:textColor="#000000"
+        android:layout_alignBaseline="@+id/TchatButton"
+        android:layout_alignBottom="@+id/TchatButton"
+        android:layout_marginLeft="220dp"
+
+        />
+
+    <!--  CHAT -->
+    <Button
+        android:id = "@+id/TchatButton"
+        style = "@style/DashboardButton"
+        android:drawableTop = "@drawable/btn_chat"
+        android:text = "Chat"
+        android:textColor="#000000"
+
+        android:layout_marginTop="98dp"
+        android:layout_below="@+id/TwelcomeText"
+        android:layout_alignLeft="@+id/TremButton"
+        android:layout_alignStart="@+id/TremButton" />
+
+    <Button
+        android:id = "@+id/TremButton"
+        style = "@style/DashboardButton"
+        android:drawableTop = "@drawable/btn_reminder"
+        android:text = "Reminders"
+        android:textColor="#000000"
+
+        android:layout_below="@+id/TchatButton"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="48dp" />
+
+    <Button
+        android:id = "@+id/TlogoutButton"
+        style = "@style/DashboardButton"
+        android:drawableTop = "@drawable/btn_logut"
+        android:text = "Logout"
+        android:textColor="#000000"
+        android:layout_alignBaseline="@+id/TremButton"
+        android:layout_alignBottom="@+id/TremButton"
+        android:layout_alignLeft="@+id/TdownloadButton"
+        android:layout_alignStart="@+id/TdownloadButton" />
+
+
+
+</RelativeLayout>

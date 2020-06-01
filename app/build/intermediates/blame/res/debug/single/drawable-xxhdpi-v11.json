@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\chat_default.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\chat_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\download_default.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\download_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\ic_stat_name.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\rem_default.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\rem_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\chat_selected.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\chat_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\logout_default.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\logout_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\download_selected.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\download_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\ic_stat_new_message.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\ic_stat_new_message.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\rem_selected.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\rem_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\logout_selected.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xxhdpi-v11\\logout_selected.png"
+    }
+]

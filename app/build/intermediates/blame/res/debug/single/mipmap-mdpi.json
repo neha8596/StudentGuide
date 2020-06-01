@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_user.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_ppt.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\ic_ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_pid.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\ic_pid.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_key.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_password.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_iosuser.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\ic_iosuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\student_img.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\student_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\staff_img.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\mipmap-mdpi\\staff_img.png"
+    }
+]

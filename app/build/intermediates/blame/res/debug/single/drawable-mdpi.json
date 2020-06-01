@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notif.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-mdpi\\ic_notif.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_stat_reply.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-mdpi\\ic_action_stat_reply.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_bg2.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-mdpi\\arrow_bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_stat_share.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-mdpi\\ic_action_stat_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_bg1.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-mdpi\\arrow_bg1.png"
+    }
+]

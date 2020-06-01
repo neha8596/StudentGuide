@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11\\ic_stat_name.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11\\ic_stat_new_message.png",
+        "source": "C:\\Users\\Suraj\\AndroidStudioProjects\\Student_Guide\\app\\src\\main\\res\\drawable-xhdpi-v11\\ic_stat_new_message.png"
+    }
+]
