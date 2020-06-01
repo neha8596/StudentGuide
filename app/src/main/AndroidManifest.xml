@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.neha.student_guide">
+
+
+    <uses-permission
+        android:name="com.github.hathibelagal.pn.permission.C2D_MESSAGE" />
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Student Guide"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!--
+     Set custom default icon. This is used when no icon is set for incoming notification messages.
+     See README(https://goo.gl/l4GJaQ) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@mipmap/ic_launcher" />
+        <!--
+             Set color used with incoming notification messages. This is used when no color is set for the incoming
+             notification message. See README(https://goo.gl/6BKBk7) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorAccent" />
+
+        <activity android:name=".Page1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="Student Sign In" />
+        <activity
+            android:name=".RegisterActivity"
+            android:label="Student Register" />
+        <activity
+            android:name=".ChatActivity"
+            android:label="Chat"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Users"
+            android:label="Users" />
+       <activity android:name=".DashboardActivity"
+                  />
+        <activity android:name=".TRegisterActivity"
+            android:label="Staff Register"/>
+        <activity android:name=".TLoginActivity"
+            android:label="Staff Sign In"/>
+        <activity android:name=".TDashboardActivity" />
+        <activity android:name=".UploadActivity"
+            android:label="Upload PPT"/>
+        <activity android:name=".ShowImagesActivity" />
+        <activity android:name=".StaffReminderActivity"
+            android:label="Reminder"/>
+
+        <activity
+            android:name=".StudentReminder1"
+            android:label="Reminder">
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "811619710821",
+    "firebase_url": "https://student-guide-2339e.firebaseio.com",
+    "project_id": "student-guide-2339e",
+    "storage_bucket": "student-guide-2339e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811619710821:android:af21d049ba949466",
+        "android_client_info": {
+          "package_name": "com.example.neha.student_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811619710821-kr4oanomk5ndgfekvtvfffe7du9s3h0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcwsFN46d1LG-p82HLuW0Xe73KOv4O2vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
